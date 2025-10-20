@@ -32,4 +32,4 @@ Below are the Figures to explain SHAP in a classroom:
 
 ![Figure 1](figure1.png)
 
-![Figure 2](figure2.png)
+![Figure 2](figure 2.png)
